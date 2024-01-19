@@ -2,6 +2,8 @@
 
 ## Overview
 This repository contains a Python analysis script for evaluating kidney disease stages based on Age, eGFR (Estimated Glomerular Filtration Rate), and Gender. The code segments the stages of kidney diseases and visualizes the distribution of these stages in a dataset.
+## Note: According to https://www.mdapp.co/egfr-calculator-by-ckd-epi-79/ creatinine has been calculated.
+
 
 ## Data
 The analysis is performed on a dataset (not provided in this repo) containing the following key columns:
